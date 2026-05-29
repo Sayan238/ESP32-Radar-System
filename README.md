@@ -156,7 +156,8 @@ to your ESP32 COM port.
 # 📷 Project Preview
 
 <p align="center">
-  <img src="Images/radar_ui.jpg" width="85%" alt="Radar UI"/>
+  <img width="652" height="380" alt="Screenshot 2026-05-29 132919" src="https://github.com/user-attachments/assets/2e3eed4a-ede5-4242-91ea-b0de9fd4765e" />
+
 </p>
 
 ---
