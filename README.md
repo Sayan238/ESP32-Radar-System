@@ -165,7 +165,7 @@ to your ESP32 COM port.
 # 🎥 YouTube Demo
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_LINK">
+  <a href="https://youtu.be/lGQ48HOs0QQ?si=Nv3dEVql4y_HheUj">
     <img src="https://img.shields.io/badge/WATCH-DEMO_VIDEO-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
